@@ -1,0 +1,6 @@
+Hello, this is line 1.
+12345
+Another line here with special characters: @#$%
+Appending a new line.
+67890
+One more line added for good measure.
